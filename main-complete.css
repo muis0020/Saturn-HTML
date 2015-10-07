@@ -60,7 +60,8 @@ p{
 }
 nav a, nav a:link, nav a:visited{
     color: gold;
-    font-size: 1.25rem;
+    font-size: 1.5rem;
+    text-decoration: none;
 
 }
 nav a:hover, nav a:active{
